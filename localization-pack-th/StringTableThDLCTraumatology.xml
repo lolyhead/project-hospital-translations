@@ -12,18 +12,18 @@
         <LocalizedStrings>
             <GameDBLocalizedString>      <LocID>DLC_TRAUMATOLOGY</LocID>                                       <Text>Traumatology Department DLC</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>DPT_TRAUMATOLOGY_DEPARTMENT</LocID>                            <Text>Traumatology</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_TRAUMATOLOGY_DEPARTMENT</LocID>                            <Text>แผนกผู้ป่วยอุบัติเหตุร้ายแรง</Text>  </GameDBLocalizedString>
 
             <!-- Hospitalization alias -->
-            <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_BURN_CENTER</LocID>                        <Text>Burn unit hospitalization</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_BURN_CENTER</LocID>                        <Text>หอพักผู้ป่วยหนักไฟไหม้นํ้าร้อนลวก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_BURN_CENTER_DESCRIPTION</LocID>            <Text>Hospitalize the patient at a burn unit with special care.\n\nRequired room: Burn unit</Text>  </GameDBLocalizedString>
 
             <!--ROOMS-->
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_BURN_UNIT</LocID>                                    <Text>Burn unit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_BURN_UNIT</LocID>                                    <Text>หน่วยบาดไฟไหม้นํ้าร้อนลวก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_BURN_UNIT_DESCRIPTION</LocID>                        <Text>Burn unit specializes in treatment of burns of all kinds.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMATOLOGY_OFFICE</LocID>                          <Text>Traumatology office</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMATOLOGY_OFFICE</LocID>                          <Text>ห้องตรวจผู้ป่วยอุบัติเหตุร้ายแรง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_TRAUMATOLOGY_OFFICE_DESCRIPTION</LocID>              <Text>Outpatient clinical office for simple examinations and treatments. Staff requirements:\n1x Traumatologist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_TRAUMATOLOGY_OFFICE</LocID>                <Text>Diagnostic unit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_TRAUMATOLOGY_OFFICE</LocID>                <Text>หน่วยวินิจฉัย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_INPATIENT_TRAUMATOLOGY_OFFICE_DESCRIPTION</LocID>    <Text>Diagnostic unit at Traumatology department provides examination and treatment procedures for hospitalized patients. \n\nMin. Staff requirements: \n1x Traumatologist \n(Personnel based in On-call room)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ROOM_TYPE_CARDIOVASCULAR_DIAGNOSTIC_UNIT_TRAUMATOLOGY</LocID>  <Text>Cardiography unit</Text>  </GameDBLocalizedString>
 
