@@ -13,7 +13,7 @@
             <!-- Employee job titles -->
             <GameDBLocalizedString>      <LocID>OCCUPATION_DOCTOR</LocID>               <Text>แพทย์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_NURSE</LocID>                <Text>พยาบาล</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_LAB_SPECIALIST</LocID>       <Text>ผู้เชี่ยวชาญเทคโนโลยี</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_LAB_SPECIALIST</LocID>       <Text>นักเทคนิคการแพทย์</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_JANITOR</LocID>              <Text>ภารโรง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FIRED</LocID>                           <Text>ถูกไล่ออก</Text>  </GameDBLocalizedString>
 
